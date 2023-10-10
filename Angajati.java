@@ -1,3 +1,4 @@
+//Conceptul angajat
 public class Angajati {
     private String nume;
     private String prenume;
